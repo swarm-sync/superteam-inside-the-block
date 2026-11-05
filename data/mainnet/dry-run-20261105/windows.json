@@ -1,0 +1,100 @@
+{
+  "windows": [
+    {
+      "validator": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "start_slot": 465806260,
+      "end_slot": 465806263,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806324,
+      "end_slot": 465806327,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806340,
+      "end_slot": 465806343,
+      "slots": 4
+    },
+    {
+      "validator": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "start_slot": 465806428,
+      "end_slot": 465806431,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806484,
+      "end_slot": 465806487,
+      "slots": 4
+    },
+    {
+      "validator": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "start_slot": 465806512,
+      "end_slot": 465806515,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806540,
+      "end_slot": 465806543,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806616,
+      "end_slot": 465806619,
+      "slots": 4
+    },
+    {
+      "validator": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "start_slot": 465806632,
+      "end_slot": 465806635,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806672,
+      "end_slot": 465806675,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806880,
+      "end_slot": 465806883,
+      "slots": 4
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "start_slot": 465806928,
+      "end_slot": 465806931,
+      "slots": 4
+    },
+    {
+      "validator": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "start_slot": 465806960,
+      "end_slot": 465806963,
+      "slots": 4
+    },
+    {
+      "validator": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "start_slot": 465807260,
+      "end_slot": 465807263,
+      "slots": 4
+    },
+    {
+      "validator": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "start_slot": 465807368,
+      "end_slot": 465807371,
+      "slots": 4
+    },
+    {
+      "validator": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "start_slot": 465807380,
+      "end_slot": 465807383,
+      "slots": 4
+    }
+  ]
+}

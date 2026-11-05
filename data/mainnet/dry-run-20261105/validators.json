@@ -1,0 +1,100 @@
+{
+  "validators": [
+    {
+      "pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "vote_pubkey": "CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1",
+      "version": "4.4.0",
+      "activated_stake": 17063613382665951,
+      "commission": 7,
+      "delinquent": false
+    },
+    {
+      "pubkey": "JUPiTERkf97eKN222JwY7bkpWuJnwqKtT44fsbJfhkr",
+      "vote_pubkey": "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb",
+      "version": "26.10.6",
+      "activated_stake": 9530733430720160,
+      "commission": 5,
+      "delinquent": false
+    },
+    {
+      "pubkey": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+      "vote_pubkey": "H43AYFsvhNuALQieHpLXefp1ECgEBT6oVnS4EcTsC25C",
+      "version": "0.1.1",
+      "activated_stake": 1920965533823459,
+      "commission": 1,
+      "delinquent": false
+    },
+    {
+      "pubkey": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+      "vote_pubkey": "LSTmLs1DENX82ihc7jU134mydiV3NDEPXsRrekAY6Ys",
+      "version": "4.3.2",
+      "activated_stake": 1795527286256908,
+      "commission": 0,
+      "delinquent": false
+    },
+    {
+      "pubkey": "HSDTxfgrqY8ZK88Q5Fx2DdX7zxMDqXgxJKgErTBSLoQJ",
+      "vote_pubkey": "hsdtGUwm6TeePfXWgHqLpiLEijvnz177fxHf61BfsLT",
+      "version": "4.4.0-rc.1",
+      "activated_stake": 1528270519980189,
+      "commission": 5,
+      "delinquent": false
+    },
+    {
+      "pubkey": "ALp2GdA1eJV8vZHMHazCtTxNXe3BLUSco9LDASgjDs8R",
+      "vote_pubkey": "4tuMshQNpAFpy1YtEHnSsE5EPN1mAT8FevWvn2UPJHNM",
+      "version": "26.10.5",
+      "activated_stake": 572169987557165,
+      "commission": 0,
+      "delinquent": false
+    },
+    {
+      "pubkey": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
+      "vote_pubkey": "soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz",
+      "version": "4.5.0-alpha.2",
+      "activated_stake": 305067207506514,
+      "commission": 0,
+      "delinquent": false
+    },
+    {
+      "pubkey": "sce2zXNjLpPMcSCATTrLiQhAAvHNNMKypTFVtg2H37U",
+      "vote_pubkey": "9BSZriSFS8Yb835exZwTLN19Dqy9B43yvuMAAdL3nBvz",
+      "version": "4.5.0-alpha.4",
+      "activated_stake": 59121326800493,
+      "commission": 10,
+      "delinquent": false
+    },
+    {
+      "pubkey": "5ghoFEVrsXeAPB6SUmBpZ2xq3KvHEjNMeSaBnxEBXkHV",
+      "vote_pubkey": "J6KaKtLRj7eQGuVVL2CAz1AS9kDxsrmej9QbYkEtsiAD",
+      "version": "26.10.4",
+      "activated_stake": 52227245444203,
+      "commission": 0,
+      "delinquent": false
+    },
+    {
+      "pubkey": "2bpfa8JbFfZUGUsedDsemu6vQUxbhcEM8ALSH3PgXd2d",
+      "vote_pubkey": "Gar9q7Ru2sKfVxFnR5xmV8GieJeUSTp7Uf3ixai9BQKS",
+      "version": "4.3.0-rc.1",
+      "activated_stake": 29992843225158,
+      "commission": 8,
+      "delinquent": false
+    },
+    {
+      "pubkey": "AS4i8EXUZnPbmNT5ZXmoTEbrXQrbFoReiWwwFB43Ds5z",
+      "vote_pubkey": "5AC692spnjbegP7ttCXJEzUe8S81sLYsqJd8Ae6Zv1xU",
+      "version": "4.3.0",
+      "activated_stake": 9471743331739,
+      "commission": 0,
+      "delinquent": false
+    },
+    {
+      "pubkey": "FsEq1UFSucxyyYcHKYSt4RjaUzBVL4eG7vuCrGz9qY2W",
+      "vote_pubkey": "BzgTDU98GGMaq5RWkWcDLsX7W31VqRcEyNiukXzYV2Jd",
+      "version": "0.1.0",
+      "activated_stake": 1513857540580,
+      "commission": 10,
+      "delinquent": false
+    }
+  ]
+}

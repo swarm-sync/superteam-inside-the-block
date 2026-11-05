@@ -1,0 +1,19 @@
+# One-command reproduction (dry-run by default: builds + simulates, sends nothing).
+#   docker compose up
+# Live devnet run (free, proves the pipeline end to end):
+#   docker compose run --rm app measure --network devnet --live --out data/devnet/live1
+# Live mainnet run (spends real SOL, capped at 0.05):
+#   ITB_ALLOW_MAINNET_LIVE=1 docker compose run --rm app measure --network mainnet \
+#     --live --keypair /keys/mainnet.json --out data/mainnet/live1
+#   (mount your key file at /keys -- keys are NEVER baked into the image.)
+services:
+  app:
+    build: .
+    volumes:
+      - ./data:/app/data
+      # Uncomment to use a local keypair file for live runs:
+      # - /path/to/your/keys:/keys:ro
+    environment:
+      # Public RPCs; override with your own endpoint if rate-limited.
+      - ITB_RPC_MAINNET=https://api.mainnet-beta.solana.com
+      - ITB_RPC_DEVNET=https://api.devnet.solana.com

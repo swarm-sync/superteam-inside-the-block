@@ -1,0 +1,12 @@
+{
+  "validators": [
+    {
+      "pubkey": "DfLviHz61QEJQi7ohEXYLuDsPrq3syY3WbpDQNHxfhVE",
+      "vote_pubkey": "whys8CUPf5wRxniLwa6HjNb9KARnWjcYTkKKV5gi2uy",
+      "version": "1.18.26",
+      "activated_stake": 999999997717120,
+      "commission": 0,
+      "delinquent": false
+    }
+  ]
+}

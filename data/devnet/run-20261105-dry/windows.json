@@ -1,0 +1,388 @@
+{
+  "windows": [
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028188,
+      "end_slot": 519028191,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028212,
+      "end_slot": 519028215,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028252,
+      "end_slot": 519028255,
+      "slots": 4
+    },
+    {
+      "validator": "BrX9Z85BbmXYMjvvuAWU8imwsAqutVQiDg9uNfTGkzrJ",
+      "start_slot": 519028256,
+      "end_slot": 519028259,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028272,
+      "end_slot": 519028275,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028288,
+      "end_slot": 519028299,
+      "slots": 12
+    },
+    {
+      "validator": "3zvXem8vqvDYos6BKu66FV84tmDdQwgLxYSempy8tSrs",
+      "start_slot": 519028320,
+      "end_slot": 519028323,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028324,
+      "end_slot": 519028327,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028344,
+      "end_slot": 519028351,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028368,
+      "end_slot": 519028375,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028392,
+      "end_slot": 519028395,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028400,
+      "end_slot": 519028403,
+      "slots": 4
+    },
+    {
+      "validator": "BrX9Z85BbmXYMjvvuAWU8imwsAqutVQiDg9uNfTGkzrJ",
+      "start_slot": 519028404,
+      "end_slot": 519028407,
+      "slots": 4
+    },
+    {
+      "validator": "BALUa17Zy2vegZ7xaTSTVciW11oLYpXzyT6FYwCVSnsK",
+      "start_slot": 519028412,
+      "end_slot": 519028415,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028420,
+      "end_slot": 519028423,
+      "slots": 4
+    },
+    {
+      "validator": "2UWuPRCUZHgDt4PdiarRx8YPBD5gUMaVA5EcPeg1sVzL",
+      "start_slot": 519028468,
+      "end_slot": 519028471,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028472,
+      "end_slot": 519028475,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028480,
+      "end_slot": 519028483,
+      "slots": 4
+    },
+    {
+      "validator": "BrX9Z85BbmXYMjvvuAWU8imwsAqutVQiDg9uNfTGkzrJ",
+      "start_slot": 519028492,
+      "end_slot": 519028499,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028508,
+      "end_slot": 519028515,
+      "slots": 8
+    },
+    {
+      "validator": "BrX9Z85BbmXYMjvvuAWU8imwsAqutVQiDg9uNfTGkzrJ",
+      "start_slot": 519028516,
+      "end_slot": 519028519,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028528,
+      "end_slot": 519028535,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028560,
+      "end_slot": 519028563,
+      "slots": 4
+    },
+    {
+      "validator": "2UWuPRCUZHgDt4PdiarRx8YPBD5gUMaVA5EcPeg1sVzL",
+      "start_slot": 519028564,
+      "end_slot": 519028567,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028580,
+      "end_slot": 519028583,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028596,
+      "end_slot": 519028599,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028628,
+      "end_slot": 519028631,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028636,
+      "end_slot": 519028639,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028668,
+      "end_slot": 519028671,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028676,
+      "end_slot": 519028679,
+      "slots": 4
+    },
+    {
+      "validator": "3zvXem8vqvDYos6BKu66FV84tmDdQwgLxYSempy8tSrs",
+      "start_slot": 519028680,
+      "end_slot": 519028683,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028704,
+      "end_slot": 519028707,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028712,
+      "end_slot": 519028715,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028736,
+      "end_slot": 519028763,
+      "slots": 28
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028772,
+      "end_slot": 519028779,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028788,
+      "end_slot": 519028791,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028796,
+      "end_slot": 519028803,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028828,
+      "end_slot": 519028839,
+      "slots": 12
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028876,
+      "end_slot": 519028879,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028884,
+      "end_slot": 519028887,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028912,
+      "end_slot": 519028915,
+      "slots": 4
+    },
+    {
+      "validator": "6Yz4E2eTkPAghETG2txHCWUG54Suc8TAkChB6QishvrX",
+      "start_slot": 519028928,
+      "end_slot": 519028931,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028936,
+      "end_slot": 519028943,
+      "slots": 8
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028960,
+      "end_slot": 519028963,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519028992,
+      "end_slot": 519028995,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029004,
+      "end_slot": 519029007,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029012,
+      "end_slot": 519029015,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029032,
+      "end_slot": 519029035,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029040,
+      "end_slot": 519029043,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029048,
+      "end_slot": 519029055,
+      "slots": 8
+    },
+    {
+      "validator": "2UWuPRCUZHgDt4PdiarRx8YPBD5gUMaVA5EcPeg1sVzL",
+      "start_slot": 519029064,
+      "end_slot": 519029067,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029112,
+      "end_slot": 519029115,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029140,
+      "end_slot": 519029143,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029156,
+      "end_slot": 519029159,
+      "slots": 4
+    },
+    {
+      "validator": "BrX9Z85BbmXYMjvvuAWU8imwsAqutVQiDg9uNfTGkzrJ",
+      "start_slot": 519029208,
+      "end_slot": 519029211,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029224,
+      "end_slot": 519029227,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029308,
+      "end_slot": 519029311,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029320,
+      "end_slot": 519029323,
+      "slots": 4
+    },
+    {
+      "validator": "3zvXem8vqvDYos6BKu66FV84tmDdQwgLxYSempy8tSrs",
+      "start_slot": 519029328,
+      "end_slot": 519029331,
+      "slots": 4
+    },
+    {
+      "validator": "2UWuPRCUZHgDt4PdiarRx8YPBD5gUMaVA5EcPeg1sVzL",
+      "start_slot": 519029344,
+      "end_slot": 519029347,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029348,
+      "end_slot": 519029351,
+      "slots": 4
+    },
+    {
+      "validator": "dv3qDFk1DTF36Z62bNvrCXe9sKATA6xvVy6A798xxAS",
+      "start_slot": 519029356,
+      "end_slot": 519029359,
+      "slots": 4
+    },
+    {
+      "validator": "BrX9Z85BbmXYMjvvuAWU8imwsAqutVQiDg9uNfTGkzrJ",
+      "start_slot": 519029364,
+      "end_slot": 519029367,
+      "slots": 4
+    },
+    {
+      "validator": "97YUjL2EK42M6jG5VA4fKuVxGXDfxsC5Zawd9haLQJGk",
+      "start_slot": 519029368,
+      "end_slot": 519029371,
+      "slots": 4
+    }
+  ]
+}
